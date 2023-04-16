@@ -36,6 +36,6 @@ I'm a passionate **Cloud-native Platform Engineer** :cloud: with experience in b
 
 ## 📫 Contact Me
 
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/Dionisio_Pozo--black?style=social&logo=linkedin)](https://www.linkedin.com/in/dionisiopozo)
+- [![LinkedIn](https://img.shields.io/badge/Dionisio_Pozo--black?style=social&logo=linkedin)](https://www.linkedin.com/in/dionisiopozo)
 
 Feel free to reach out to me to discuss job opportunities, collaborations, or just to chat about technology!
