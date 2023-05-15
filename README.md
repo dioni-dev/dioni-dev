@@ -24,7 +24,7 @@ I'm a passionate **Cloud-native Platform Engineer** :cloud: with experience in b
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dionisiopozo)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](dionisio.pozo@outlook.com)
-![dionisio.pozo@outlook.com](mailto:dionisio.pozo@outlook.com)(https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dionisio.pozo@outlook.com)
 
 Feel free to reach out to me to discuss job opportunities, collaborations, or just to chat about technology!
