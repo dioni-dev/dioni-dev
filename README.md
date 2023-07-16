@@ -10,6 +10,11 @@ When I'm not delving into the cloud world, I love exploring nature and reading, 
 
 ## 🛠️ Technical Skills
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=social&logo=Python&logoColor=white)
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" /> 
