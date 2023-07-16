@@ -13,6 +13,7 @@ When I'm not delving into the cloud world, I love exploring nature and reading, 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=Python&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=social&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
 
 <p align="center">
