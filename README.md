@@ -44,6 +44,7 @@ When I'm not delving into the cloud world, I love exploring nature and reading, 
   <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
 
+
 Feel free to reach out to me to discuss job opportunities, collaborations, or just to chat about technology! 
 
 ## 📊 GitHub Stats
