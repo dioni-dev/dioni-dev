@@ -58,3 +58,14 @@ Feel free to reach out to me to discuss job opportunities, collaborations, or ju
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dioni-dev&layout=compact)](https://github.com/dioni-dev)
 
 [![Dioni-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dioni-dev)](https://github.com/dioni-dev)
+
+
+<p align="center">
+  <a href="https://github.com/dioni-dev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioni-dev&layout=compact" />
+  </a>
+  <a href="https://github.com/dioni-dev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dioni-dev" />
+  </a>
+</p>
+
