@@ -73,3 +73,4 @@ Feel free to reach out to me to discuss job opportunities, collaborations, or ju
 <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dionidev&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Rick Staa's Github stats" />
 </a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dionidev)](https://github.com/dioni-dev)
