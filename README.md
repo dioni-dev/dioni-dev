@@ -49,11 +49,7 @@ Feel free to reach out to me to discuss job opportunities, collaborations, or ju
 ## 📊 GitHub Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dioni-dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=dioni-dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioni-dev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-<p align="center">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=dioni-dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="259" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dionidev&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Rick Staa's Language stats" />
-</p>
