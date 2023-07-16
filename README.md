@@ -35,11 +35,17 @@ I strongly believe in the power of effective communication, teamwork, and the ab
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dionisio.pozo@outlook.com)
 
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
-</p>
+
+
+## 📫 Contact Me
+
+<a href="https://www.linkedin.com/in/dionisiopozo">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="mailto:dionisio.pozo@outlook.com">
+  <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</a>
+
 
 Feel free to reach out to me to discuss job opportunities, collaborations, or just to chat about technology! 
 
