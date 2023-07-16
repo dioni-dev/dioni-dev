@@ -10,28 +10,21 @@ When I'm not delving into the cloud world, I love exploring nature and reading, 
 
 ## 🛠️ Technical Skills
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=Python&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=social&logo=Python&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-CI/CD-F7B93E?style=flat-square&logo=Jenkins&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=Terraform&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-CI/CD-F7B93E?style=for-the-badge&logo=Jenkins&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white" />
 </p>
-
 
 ## 🎓 Education
 
