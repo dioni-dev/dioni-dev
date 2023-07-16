@@ -37,15 +37,16 @@ When I'm not delving into the cloud world, I love exploring nature and reading, 
 
 ## 📫 Contact Me
 
-<a href="https://www.linkedin.com/in/dionisiopozo">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-right: 20px;"/>
-</a>
-<a href="mailto:dionisio.pozo@outlook.com">
-  <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-</a>
-
-
-Feel free to reach out to me to discuss job opportunities, collaborations, or just to chat about technology! 
+<div align="left">
+  <a href="https://www.linkedin.com/in/dionisiopozo">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-right: 20px;"/>
+  </a>
+  <a href="mailto:dionisio.pozo@outlook.com">
+    <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <br><br>
+  Feel free to reach out to me to discuss job opportunities, collaborations, or just to chat about technology!
+</div>
 
 ## 📊 GitHub Stats
 
