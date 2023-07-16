@@ -55,13 +55,6 @@ Feel free to reach out to me to discuss job opportunities, collaborations, or ju
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dioni-dev&layout=compact)](https://github.com/dioni-dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dioni-dev)](https://github.com/dioni-dev)
+[![Dioni-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dioni-dev)](https://github.com/dioni-dev)
