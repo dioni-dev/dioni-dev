@@ -62,4 +62,4 @@ Feel free to reach out to me to discuss job opportunities, collaborations, or ju
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionidev&layout=compact)](https://github.com/dionidev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dioni-dev&layout=compact)](https://github.com/dioni-dev)
