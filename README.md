@@ -62,10 +62,9 @@ Feel free to reach out to me to discuss job opportunities, collaborations, or ju
 
 <p align="center">
   <a href="https://github.com/dioni-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioni-dev&layout=compact" />
-  </a>
-  <a href="https://github.com/dioni-dev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dioni-dev" />
   </a>
+  <a href="https://github.com/dioni-dev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioni-dev&layout=compact" />
+  </a>
 </p>
-
