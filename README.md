@@ -16,7 +16,7 @@ When I'm not delving into the cloud world, I love exploring nature and reading, 
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-CI/CD-F7B93E?style=for-the-badge&logo=Jenkins&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/-istio-326CE5?style=for-the-badge&logo=istio&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-ArgoCD-623CE4?style=for-the-badge&logo=ArgoCD&logoColor=white" /> 
