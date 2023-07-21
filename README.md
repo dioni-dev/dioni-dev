@@ -19,7 +19,6 @@ When I'm not delving into the cloud world, I love exploring nature and reading, 
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-istio-326CE5?style=for-the-badge&logo=istio&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /> 
-
   <img src="https://img.shields.io/badge/-ArgoCD-623CE4?style=for-the-badge&logo=ArgoCD&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" /> 
@@ -50,26 +49,13 @@ When I'm not delving into the cloud world, I love exploring nature and reading, 
   Feel free to reach out to me to discuss job opportunities, collaborations, or just to chat about technology!
 </div>
 
+## ☕ Buy Me a Coffee 
 
+If you find my work helpful or useful, consider buying me a coffee. Your support will greatly help me to continue contributing to the open-source community.
 
-## 📫 Contact Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/dionisiopozo">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-right: 20px;"/>
-  </a>
-  <a href="mailto:dionisio.pozo@outlook.com">
-    <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-  <a href="https://www.buymeacoffee.com/dionidev">
+<a href="https://www.buymeacoffee.com/dionidev">
     <img alt="BuyMeACoffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
-  </a>
-  <br><br>
-  Feel free to reach out to me to discuss job opportunities, collaborations, or just to chat about technology!
-</div>
-
-
-
+</a>
 
 ## 📊 GitHub Stats
 
