@@ -70,4 +70,4 @@ If you find my work helpful or useful, consider buying me a coffee. Your support
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hashfx&label=Profile%20views&color=0e75b6&style=flat" alt="hashfx" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dioni-dev&label=Profile%20views&color=0e75b6&style=flat" alt="dioni-dev" /> </p> 
