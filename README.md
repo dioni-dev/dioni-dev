@@ -63,7 +63,7 @@ If you find my work helpful or useful, consider buying me a coffee. Your support
 
 <p align="left">
   <a href="https://github.com/dioni-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dioni-dev" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dioni-dev&count_private=true&include_all_commits=true&hide_rank=false" />
   </a>
   <a href="https://github.com/dioni-dev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioni-dev&layout=compact" />
