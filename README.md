@@ -20,6 +20,7 @@ When I'm not delving into the cloud world, I love exploring nature and reading, 
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-istio-326CE5?style=for-the-badge&logo=istio&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Helm-0F0F0F?style=for-the-badge&logo=helm&logoColor=white" />
   <img src="https://img.shields.io/badge/-ArgoCD-623CE4?style=for-the-badge&logo=ArgoCD&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" /> 
