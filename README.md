@@ -24,6 +24,11 @@ When I'm not delving into the cloud world, I love exploring nature and reading, 
   <img src="https://img.shields.io/badge/-ArgoCD-623CE4?style=for-the-badge&logo=ArgoCD&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=Terraform&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white" />
