@@ -1,12 +1,15 @@
-# Hi there! 👋 I'm Dionisio Pozo
+# Welcome to my GitHub! 👋 I'm Dionisio Pozo
 
-I'm a passionate **Cloud Platform Engineer** :cloud: with experience in building and managing scalable and reliable infrastructures. I love learning new technologies and am constantly seeking opportunities to grow professionally and personally.
+I'm a dedicated **Cloud Platform Engineer, DevOps Specialist, and SRE** :cloud: with a robust background in building and managing scalable, secure, and reliable infrastructures. I thrive on leveraging my expertise in cloud engineering and cybersecurity to create innovative solutions that drive business success. I'm passionate about embracing new challenges and am constantly exploring cutting-edge technologies to broaden my skill set and enhance my professional growth.
 
 ## 👨‍💻 About Me
 
-Skilled in Python, Java, and Golang, I am proficient in tools such as Docker, Kubernetes, CI/CD, Jenkins, Git, Terraform, and Ansible, with experience across AWS, Azure, and GCP cloud platforms.
+Skilled in Python and Golang, I am proficient in tools such as Docker, Kubernetes, CI/CD, Jenkins, Git, Terraform, and Ansible, with experience across AWS, Azure, and GCP cloud platforms.
 
-When I'm not delving into the cloud world, I love exploring nature and reading, always eager to learn more about the world.
+I am deeply committed to personal and professional development, continuously seeking out the latest advancements in technology to stay at the forefront of the cloud engineering field. My career is driven by a passion for solving complex problems and a relentless pursuit of knowledge, which I foster through ongoing education and hands-on experiences.
+
+Outside of my technical endeavors, I am an avid nature explorer and reader, always keen to understand more about the world around me. This curiosity not only fuels my professional career but also my personal growth, as I believe that a well-rounded individual brings innovative perspectives and resilient solutions to any team.
+
 
 ## 🛠️ Technical Skills
 
@@ -19,6 +22,7 @@ When I'm not delving into the cloud world, I love exploring nature and reading, 
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-istio-326CE5?style=for-the-badge&logo=istio&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Cilium-FB542B?style=for-the-badge&logo=Cilium&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Helm-0F0F0F?style=for-the-badge&logo=helm&logoColor=white" />
   <img src="https://img.shields.io/badge/-ArgoCD-623CE4?style=for-the-badge&logo=ArgoCD&logoColor=white" /> 
