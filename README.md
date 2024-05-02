@@ -4,8 +4,6 @@ I'm a dedicated **Cloud Platform Engineer, DevOps Specialist, and SRE** :cloud: 
 
 ## 👨‍💻 About Me
 
-Skilled in Python and Golang, I am proficient in tools such as Docker, Kubernetes, CI/CD, Jenkins, Git, Terraform, and Ansible, with experience across AWS, Azure, and GCP cloud platforms.
-
 I am deeply committed to personal and professional development, continuously seeking out the latest advancements in technology to stay at the forefront of the cloud engineering field. My career is driven by a passion for solving complex problems and a relentless pursuit of knowledge, which I foster through ongoing education and hands-on experiences.
 
 Outside of my technical endeavors, I am an avid nature explorer and reader, always keen to understand more about the world around me. This curiosity not only fuels my professional career but also my personal growth, as I believe that a well-rounded individual brings innovative perspectives and resilient solutions to any team.
@@ -22,7 +20,7 @@ Outside of my technical endeavors, I am an avid nature explorer and reader, alwa
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-istio-326CE5?style=for-the-badge&logo=istio&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Cilium-FB542B?style=for-the-badge&logo=Cilium&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Cilium-00B140?style=for-the-badge&logo=Cilium&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Helm-0F0F0F?style=for-the-badge&logo=helm&logoColor=white" />
   <img src="https://img.shields.io/badge/-ArgoCD-623CE4?style=for-the-badge&logo=ArgoCD&logoColor=white" /> 
